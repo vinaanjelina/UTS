@@ -1,0 +1,8 @@
+.list{
+    list-style-type: square;
+}
+
+.step{
+    list-style-type: upper-latin;
+    list-style-position: outside;
+}
