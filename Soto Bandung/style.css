@@ -1,8 +1,23 @@
-.list{
+.deretan{
     list-style-type: square;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-.step{
-    list-style-type: upper-latin;
+.langkah{
     list-style-position: outside;
+    text-align: left;
+    font-style: normal;
+}
+
+.background{
+    background-image: url(../Soto\ Bandung/src/food.jpg);
+}
+
+.ukuran{
+    font-size: 40px;
+}
+
+.jenis{
+    font-family: Arial, Helvetica, sans-serif;
 }
