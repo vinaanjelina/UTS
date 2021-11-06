@@ -1,8 +1,29 @@
-ul.list{
+.deretan{
     list-style-type: square;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-ul.step{
-    list-style-type: upper-latin;
+.langkah{
     list-style-position: outside;
+    text-align: left;
+    font-style: normal;
+}
+
+.background{
+    background-image: url(../Empal\ Gentong/src/food.jpg);
+}
+
+.ukuran{
+    font-size: 40px;
+}
+
+.jenis{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.posisi{
+    height: 500px;
+    width: 750px;
+    align-items: center;
 }
