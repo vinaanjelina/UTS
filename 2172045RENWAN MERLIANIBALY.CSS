@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>nasi kalong</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<table>
+    <tr>
+        <td class="td"><h3><i>Home</i></h3></td>
+        <td class="td"><h3><i>Masakan</i></h3></td>
+    </tr>
+</table>
+<div class="background">
+<body class="jenis" id="paragraf">
+<p class="ukuran">nasi kalong</p>
+<img src="src/nasi kalong.jpg" width="750" height="500" align="center" class="posisi"><br>
+<a href="https://www.sahabatufs.com/" style="margin-left: 0px;" class="a">Photo: www.sahabatufs.com/</a>
+<p id="forall">nasi kalong adalah Salah satu makanan khas Bandung di Indonesia. nasi kalong dibuat dengan bahan-bahan yaitu beras putih, air,buah kluwek diambil isinya,garam,buncis muda,bawang putih,kecap manis,dan minyak goreng.nasi kalong ini bisa juga disebut sebagai nasi kelelawar sebab kononnya makanan ini bisa bertahan seperti gaya hidup kelelawar,ciri-ciri nasi kalong itu adalah berwarna hitam karna dimasak menggunakan Kluwek,dan memiliki rasa yang gurih.</p>    
+<a href="https://id.wikipedia.org/wiki/nasi kalong" style="margin-left: 0px;" class="a">Source: Wikipedia.com</a>
+    <h2>Cara membuat nasi kalong</h2>
+    <p style="font-size: large;"><b>Bahan:</b></p>
+    <ul class="deretan" id="forall">
+        <li>250 gram beras cuci bersih</li>
+        <li>350 ml Air</li> 
+        <li>2 buah Kluwek, ambil isinya, haluskan</li>
+        <li>Garam secukupnya</li>
+        <li>1 sendok makan Minyak goreng<li>
+        <li>1 sendok makan Kecap asin<li>
+        <li>100 gram Daging ayam tanpa tulang, potong kotak<li>
+        <li>1 sendok makan Madu<li>
+
+    </ul>
+<p style="font-size: large;"><b>Bumbu:</b></p>
+    <ul class="deretan" id="forall">
+    <li>250 gram Buncis muda, potong 3 cm</li>
+    <li>2 siung Bawang putih, cincang halus</li> 
+    </ul>
+<p style="font-size: large;"><b>Cara Membuat:</b></p>
+    <ol class="langkah" id="forall">
+    <li>Didihkan air, garam dan kluwek. Masukkan beras, masak sambil sesekali diaduk hingga meresap, angkat. Kukus hingga matang, angkat.<li> 
+    <li>Tumis buncis: Tumis bawang putih hingga harum, lalu masukkan buncis dan kecap asin, aduk hingga layu, angkat.<li>
+    <li>Ayam madu: Ungkep ayam bersama bawang putih, madu, dan garam. Setelah berubah warna tambahkan air, masak hingga matang.<li>
+    <li>Sajikan dengan tumis buncis, ayam madu dan pelengkap lainnya<li> 
+    </ol>
+<a href="https://endeus.tv/resep/nasi kalong" style="margin-left: 0px;" class="a">endeus.tv</a>
+</body>
+</html>
