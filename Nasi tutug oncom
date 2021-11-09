@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>nasi tutug oncom</title>
+    <link rel="stylesheet" href="style3.css">
+</head>
+<table>
+    <tr>
+        <td class="td"><h3><i>Home</i></h3></td>
+        <td class="td"><h3><i>Masakan</i></h3></td>
+    </tr>
+</table>
+<div class="background">
+<body class="jenis" id="paragraf">
+<p class="ukuran">nasi tutug oncom</p>
+    <h2>Cara membuat nasi tutug oncom</h2>
+    <p style="font-size: large;"><b>Bahan:</b></p>
+    <ul class="deretan" id="forall">
+        <li>600g nasi putih</li>
+        <li>400g oncom iris</li> 
+        <li>2 sdm jecap manis</li>
+        <li>2 sdm royco kaldu jamur</li>
+        <li>1/2 std merica bubuk purih</li>
+        <li>1 sdm terasi bakar</li>
+        <li>3 sdm minyak</li>
+        <li>beberapa helai daun pisang untuk membungkus</li>
+        <li>7 siung bawang merah</li>
+        <li>3 cm kencur</li>
+        <li>5 cabai rawit merah</li>
+        <li>6 siung bawang putih</li>
+        <li>6 cabai keriting merah</li>
+    </ul>
+
+<p style="font-size: large;"><b>Cara Membuat:</b></p>
+    <ol class="langkah" id="forall">
+        <li>Panaskan 1 sdm minyak,masak oncom sambil di aduk hingga aroma langunya berkurang</li>
+        <li>Panaskan sisa minyak, tumis bumbu halus hingga harum. Masukan oncom, royco kaldu janur,kecap manis, merica,dan terasi. Masak hingga matang dan tumisan mengering</li>
+        <li>Tambahkan nasi putih, aduk hingga merata, angkat bagi menjadi 4 bagian</li>
+        <li>Siapkan daun pisang dan diolesin dengan minyak</li>
+        <li>Taruh nasi ke atas daun pisang lalu bungkus  sematkan dengan tusuk gigi</li>
+        <li>Sajikan nasi tutug oncum dengan pelengkap</li>
+</body>
+</html>
