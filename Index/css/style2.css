@@ -1,0 +1,85 @@
+.top{
+    position: static;
+    height: 50px;
+    background-color: #333333;
+}
+
+.tabel{
+    position: static;
+    float: left;
+    padding: 1%;
+    font-size: 20;
+    color: white;
+}
+
+.kosong{
+    float: left;
+    padding: 15px;
+    font-size: 20;
+    color: #333333;
+}
+
+.deretan{
+    list-style-type: circle;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#forall{
+    font-size: 20px;
+}
+
+.langkah{
+    list-style-position: outside;
+    text-align: left;
+    font-style: normal;
+}
+
+.background{
+    background: wheat;
+}
+
+.ukuran{
+    font-size: 40px;
+}
+
+.jenis{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.posisi{
+    height: 500px;
+    width: 750px;
+    align-content: center;
+}
+
+#paragraf{
+    position: relative;
+    margin-right: 300px;
+    margin-left: 300px;
+    text-align: left;
+    background-image: url(Images/food.jpg);
+}
+
+.posisi2{
+    position: sticky;
+}
+
+.td{
+    text-align: center;
+    color: brown;
+    width: 200px;
+    background-color: burlywood;
+}
+
+.td:hover{
+    color: blue;
+}
+
+.a:hover{
+    color: yellow;
+}
+
+#position{
+    position: static;
+}

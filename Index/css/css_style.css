@@ -1,0 +1,37 @@
+body{
+    background-image: url(Images/food.jpg);
+}
+.td{
+text-align: center;
+width: 200px;
+background-color: burlywood;
+margin-left: 20%;
+}
+.td:hover{
+   color: blue;
+}
+a:hover{
+    color: blue;
+}  
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.td1{
+    background-color: wheat;
+}
+a {
+    text-decoration:none;
+    color: brown;
+}
+img:hover{
+    opacity: 70%;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
